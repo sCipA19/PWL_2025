@@ -36,8 +36,8 @@ Route::get('/sd', function() {
 });
 
 // Route::get('/about', function() {
-//     return 'Nama : Adinda Ivanka Maysanda Putri, 
-//     NIM : 2341760058';
+//     return 'Nama : Syifa Revalina
+//     NIM : 2341760041';
 // });
 
 Route::get('/user/{name}', function ($name) { 
